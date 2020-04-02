@@ -7,9 +7,7 @@
 </h4>
 
 <p align="center">
- <img src="https://github.com/Rocketseat/semana-omnistack-11/blob/master/.github/bethehero.png" alt="PRs welcome!" />
 
-  <img alt="License" src="https://github.com/Rocketseat/semana-omnistack-11/blob/master/.github/bethehero.png">
 </p>
 
 <p align="center">
